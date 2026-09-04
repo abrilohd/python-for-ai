@@ -1,6 +1,8 @@
-# AI Agents
+# Python for AI Agents
 
-A structured workspace for building and organizing AI agents, tools, workflows, memory, and configuration.
+This repository is a beginner-friendly workspace for learning Python for AI development and building real AI applications.
+
+It also provides a structured foundation for organizing AI agents, tools, workflows, memory, and configuration.
 
 ## Project Structure
 
